@@ -8,4 +8,13 @@ Think about the following topics:
 * Are there aspects of our team culture that can be improved?
 
 ## First Retrospective [4-10-2024]
-* what went well? starting and putting a feetback column in my backlog. i had a smooth start. 
+* what went well?
+    The project started smoothly. I added a feedback column to my Scrum board, which was very well-received, which helped create a positive start.
+## seconde Retrospective [11-10-2024]
+* what went well?
+*
+I started over from scratch. Initially, I was coding everything from the ground up, but this time, I downloaded a template and built around it. This made it easier to get started, as I was getting stuck on tasks that should normally only take about 10 minutes. Starting over turned out to be a good decision because I am now further along than I was before. For some parts, I kept my own code instead of using the template's version because I felt my approach was much better.
+## third Retrospective [1-11-2024]
+* what went well?
+*
+I made a lot of progress and am almost finished. I just need to do some polishing.
