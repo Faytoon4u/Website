@@ -17,13 +17,14 @@ body {
   font-size: 16px;
   font-weight: 400;
   background: #fafafa;
+  overflow-x: hidden;
   color: gray; }
   body.menu-show {
     overflow: hidden;
     position: fixed;
     height: 100%;
     width: 100%; }
-
+ 
 #namee {
     font: YoungSerif;
     margin-left: 100px;
