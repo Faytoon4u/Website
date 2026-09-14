@@ -17,14 +17,13 @@ body {
   font-size: 16px;
   font-weight: 400;
   background: #fafafa;
-  overflow-x: hidden;
   color: gray; }
   body.menu-show {
     overflow: hidden;
     position: fixed;
     height: 100%;
     width: 100%; }
- 
+
 #namee {
     font: YoungSerif;
     margin-left: 100px;
@@ -44,7 +43,7 @@ body {
     padding-right: 40px;
     padding-left: 120px;
     /* margin-bottom: 100px; */
-     background-color: #E0E0DB;  
+     background-color: #d4c6cc;  
     font-family: 'Georgia', serif; 
     padding-bottom: 10px;
     /* border-radius: 10px; */
@@ -62,7 +61,7 @@ body {
 .header .buttons a {
     margin-left: 30px; /* Add spacing between buttons */
     text-decoration: none; /* No underline by default */
-    color: #767676; /* Match the text color from the image */
+    color: #686767; /* Match the text color from the image */
     font-size: 18px;
     font-family: 'Georgia', serif; /* Use the same serif font for consistency */
     font-weight: normal;
@@ -80,7 +79,7 @@ body {
 
 .work-section {
     padding: 40px;
-    /* background-color: #E0E0DB;  */
+    /* background-color: #9e838e;  */
 }
 
 
@@ -102,9 +101,9 @@ body {
 /* See all button styling */
 .see-all-button {
     font-size: 16px;
-    color: #767676;
+    color: #d4c6cc;
     text-decoration: none;
-    border: 1px solid #767676;
+    border: 1px solid #d4c6cc;
     padding: 5px 10px;
     border-radius: 5px;
     background-color: transparent;
@@ -116,7 +115,7 @@ body {
 /* Hover effect for 'see all' button */
 .see-all-button:hover {
     background-color: #767676;
-    color: #E0E0DB;
+    color: #9e838e;
 }
 
 
@@ -125,10 +124,27 @@ body {
   justify-content: space-between;
 }
 
+
+.work-gallery-Blender {
+  display: Block;
+  justify-content: space-between;
+}
 /* Main image styling */
 /* Container styling */
 .work-item {
   width: 30%;
+  position: relative;
+  margin-bottom: 30px;
+}
+
+
+.work-item-Blender-afbeelding{
+  width: 30%;
+  position: Block;
+  margin-bottom: 30px;
+}
+.work-item-Blender{
+    width: 80%;
   position: relative;
   margin-bottom: 30px;
 }
@@ -692,17 +708,12 @@ header {
   left: 0;
   right: 0;
   font-size: 250px;
-  color: #f0f0f0;
+  color: #c593935d;
   font-weight: 700; }
   
   @media screen and (max-width: 768px) {
   }
-       
-    
-   
-          
-             
-          
+         
 .intro-heading {
   margin-bottom: 3em; }
   .intro-heading h2 {
@@ -710,7 +721,7 @@ header {
     font-weight: 400;
     line-height: 1.5;
     margin-bottom: 1.5em;
-    color: #000;
+    color: #000000e8;
     position: relative; }
   .intro-heading span {
     display: block;
@@ -718,7 +729,7 @@ header {
     font-size: 12px;
     letter-spacing: 3px;
     margin-bottom: 10px;
-    color: #bfbfbf;
+    color: #cab0b0;
     font-weight: 600; }
 
 .services-img,
@@ -1595,7 +1606,7 @@ input[type="text"] {
     left: 0;
     right: 0;
     font-size: 250px;
-    color: #f0f0f0;
+    color: #c593935d;
     font-weight: 700; }
     
       
