@@ -1609,4 +1609,21 @@ input[type="text"] {
     color: #c593935d;
     font-weight: 700; }
     
-      
+      .classified-columns {
+    display: flex;
+    gap: 60px;
+    width: 100%;
+    margin-top: 40px;
+}
+
+.classified-column {
+    flex: 1;
+}
+
+.classified-column h3 {
+    margin-top: 0;
+}
+
+.classified-column ul {
+    padding-left: 20px;
+}
